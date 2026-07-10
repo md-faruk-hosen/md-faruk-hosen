@@ -77,8 +77,6 @@ I am passionate about interdisciplinary research, innovation, and collaborative 
 
 ## 📊 GitHub Statistics
 
-> *(Replace `<username>` with your GitHub username.)*
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-faruk-hosen&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-faruk-hosen&layout=compact&theme=tokyonight)

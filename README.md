@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Md. Faruk Hosen**
 
-### Lecturer • Researcher • Machine Learning & Bioinformatics Enthusiast
+### Lecturer
 
 📍 **Department of Computer Science and Engineering (CSE)**  
 **Begum Rokeya University, Rangpur, Bangladesh**
@@ -34,10 +34,6 @@ I am passionate about interdisciplinary research, innovation, and collaborative 
 - 💊 AI-driven Drug Discovery
 - 🏥 Health Informatics
 - 🩺 Medical Image Analysis
-- 📊 Data Science
-- 🧪 Computational Biology
-- 🔍 Explainable AI (XAI)
-- 👁️ Computer Vision
 
 ---
 
@@ -67,63 +63,6 @@ I am passionate about interdisciplinary research, innovation, and collaborative 
 
 ---
 
-## 💻 Research Areas
-
-- Machine Learning
-- Deep Learning
-- Bioinformatics
-- AI-driven Drug Discovery
-- Medical Image Analysis
-- Health Informatics
-- Explainable AI (XAI)
-- Computational Biology
-- Computer Vision
-- Data Mining
-
----
-
-## 🛠️ Programming Languages & Tools
-
-### 💻 Programming Languages
-
-- Python
-- R
-- MATLAB
-- C
-- C++
-
-### 🤖 Machine Learning & AI
-
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- XGBoost
-- CatBoost
-
-### 📊 Data Science
-
-- Pandas
-- NumPy
-- Matplotlib
-- OpenCV
-- Biopython
-
-### 🔧 Development Tools
-
-- Git
-- GitHub
-- Linux
-- Jupyter Notebook
-
-### 🧬 Bioinformatics & Drug Discovery
-
-- Cytoscape
-- STRING
-- AutoDock
-- GROMACS
-
----
-
 ## 📚 Research Profiles
 
 | Platform | Link |
@@ -136,50 +75,21 @@ I am passionate about interdisciplinary research, innovation, and collaborative 
 
 ---
 
-## 🤝 Collaboration
-
-I am always interested in collaborating on research involving:
-
-- 🤖 Artificial Intelligence for Healthcare
-- 🧬 Bioinformatics
-- 💊 Computational Drug Discovery
-- 🩺 Medical Image Analysis
-- 🧠 Deep Learning
-- 📊 Machine Learning
-- 🧪 Computational Biology
-- 🔍 Explainable AI (XAI)
-
-If your research aligns with these areas, feel free to connect. I would be delighted to collaborate on impactful research projects.
-
----
-
-## 📫 Contact
-
-📧 **Email:** your_email@domain.com
-
-- 🎓 Google Scholar: https://scholar.google.com/citations?hl=en&user=EFfbIs4AAAAJ
-- 🧑‍🔬 ResearchGate: https://www.researchgate.net/profile/Md-Hosen-21
-- 🆔 ORCID: https://orcid.org/0000-0001-8166-9037
-- 📑 Scopus: https://www.scopus.com/authid/detail.uri?authorId=57555877700
-- 💼 LinkedIn: https://www.linkedin.com/in/faruk17035
-
----
-
 ## 📊 GitHub Statistics
 
 > *(Replace `<username>` with your GitHub username.)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-faruk-hosen&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-faruk-hosen&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<username>&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-faruk-hosen&theme=tokyonight)
 
 ---
 
 ## 👀 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=<username>&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=md-faruk-hosen&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 

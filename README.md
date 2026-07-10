@@ -75,16 +75,6 @@ I am passionate about interdisciplinary research, innovation, and collaborative 
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-faruk-hosen&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-faruk-hosen&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-faruk-hosen&theme=tokyonight)
-
----
-
 ## 👀 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=md-faruk-hosen&label=Profile%20Views&color=0e75b6&style=flat)
